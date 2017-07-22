@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import AutorBox from './Autor';
-import Livro from './Livro';
+import AutorBox from './autor/Autor';
+import Livro from './livro/Livro';
 import Home from './Home';
 import './index.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
